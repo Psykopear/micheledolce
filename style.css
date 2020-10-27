@@ -45,7 +45,7 @@ a:hover {
 }
 .splash {
     display: grid;
-    grid-template-columns: 360px 1fr;
+    grid-template-columns: 300px 1fr;
     align-items: center;
     max-width: 853px;
     color: white;
