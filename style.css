@@ -1,50 +1,52 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: #4C474A;
+    background-color: #4c474a;
+    /* font-family: Oswald; */
+    font-family: Inconsolata;
 }
 
-.header {
-    position: fixed;
-    width: 100%;
-    top: 0;
-    height: 80px;
-    background: #000000e0;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    font-weight: 400;
-    font-size: 120%;
-    padding: 0 12px;
-    box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
-    z-index: 3;
+p {
+    line-height: 1.5;
 }
 
-a,
-a:visited,
-a:hover
-{
-    color: white;
+#hamnav a,
+#hamnav a:visited,
+#hamnav a:hover {
     text-decoration: none;
 }
 
-.header a {
-    padding: 0 12px;
+a {
+    color: white;
+}
+a:visited {
+    color: #fff;
+}
+a:hover {
+    color: #ddd;
+}
+
+.bio a, .teaching a {
+    color: black;
+}
+.bio a:visited, .teaching a:visited {
+    color: black;
+}
+.bio a:hover, .teaching a:hover {
+    color: #999;
+}
+
+#hamnav a {
+    padding: 0 22px;
 }
 
 .splash {
     display: grid;
-    grid-template-columns: 360px 1fr;
-    grid-column-gap: 20px;
+    grid-template-columns: 500px 1fr;
+    /* grid-column-gap: 20px; */
+    align-items: center;
     color: white;
-    padding: 1em 1.6em;
-    line-height: 2em;
-    position: fixed;
-    width: 100%;
-    height: 88%;
-    z-index: 1;
-    overflow: hidden;
+    padding: 3.2em 0;
 }
 
 .splash-wrapper {
@@ -52,11 +54,8 @@ a:hover
     align-items: row;
 }
 
-.splash-content {
-    margin: auto;
-}
-
-.splash-head, .splash-subhead {
+.splash-head,
+.splash-subhead {
     text-transform: uppercase;
 }
 
@@ -72,48 +71,144 @@ a:hover
 
 .splash .photo {
     margin: auto;
-    margin-left: 500px;
 }
 
 .wrapper {
     display: grid;
-    grid-template-columns: 1fr;
-    grid-column-gap: 20px;
-    /* text-align: center; */
-    top: 87%;
-    position: absolute;
-    z-index: 2;
-    width: 100%;
+    grid-template-columns: 500px 1fr;
     background: white;
 }
 
 .text-wrapper {
-    max-width: 500px;
-    margin: auto;
+    max-width: 640px;
+    /* padding-left: 20px; */
+}
+
+.contacts {
+    margin-top: 48px;
+    max-width: 853px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
 }
 
 .bio {
     background-color: white;
     color: #090809;
-    padding: 24px;
+    padding: 3.2em 0;
 }
 
 .research {
     background-color: #090809;
-    color: #aaa;
-    margin: 12px;
-    padding: 12px;
+    color: white;
+    padding: 3.2em 0;
 }
 
 .teaching {
-    background-color: white;
-    color: #090809;
-    padding: 24px;
+    color: black;
+    padding: 3.2em 0;
 }
 
 .links {
-    background-color: #090809;
-    color: #aaa;
-    margin: 12px;
-    padding: 12px;
+    background-color: white;
+    color: #090809;
+    padding: 3.2em 0;
+}
+
+@media only screen and (max-width: 1200px) {
+    .splash .photo {
+        margin: auto;
+        margin-top: 100px;
+    }
+
+    .splash {
+        grid-template-columns: 1fr;
+        padding: 0;
+        text-align: center;
+    }
+    .splash-content {
+        justify-self: center;
+        padding: 20px;
+    }
+    .contacts {
+        justify-content: center;
+    }
+
+    .wrapper {
+        grid-template-columns: 1fr;
+    }
+    .wrapper .bio,
+    .wrapper .research,
+    .wrapper .teaching,
+    .wrapper .links {
+        justify-self: center;
+        width: 100%;
+    }
+    span.bio,
+    span.research,
+    span.teaching,
+    span.links {
+        display: none;
+    }
+}
+/* [ON BIG SCREEN] */
+/* Wrapper */
+#hamnav {
+    width: 100%;
+    height: 75px;
+    background: #000000e0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 400;
+    font-size: 120%;
+    position: sticky;
+    top: 0;
+}
+
+/* Hide Hamburger */
+#hamnav label,
+#hamburger {
+    display: none;
+}
+
+/* [ON SMALL SCREENS] */
+@media screen and (max-width: 768px) {
+    /* Show Hamburger Icon */
+    #hamnav label {
+        display: inline-block;
+        color: white;
+        font-style: normal;
+        font-size: 1.2em;
+        padding: 10px;
+    }
+
+    /* Break down menu items into vertical */
+    #hamitems a {
+        box-sizing: border-box;
+        display: block;
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-top: 1px solid #333;
+    }
+
+    #hamitems a:hover {
+        background-color: black;
+    }
+
+    /* Toggle Show/Hide Menu */
+    #hamitems {
+        display: none;
+    }
+    #hamnav input:checked ~ #hamitems {
+        display: block;
+        margin-top: 75px;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        right: 0;
+        background: #000000e0;
+    }
 }
