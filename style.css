@@ -1,7 +1,10 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: #4c474a;
+    /* background-color: #4c474a; */
+    /* background-color: #FFB300; */
+    background-color: #090809;
+
     /* font-family: Oswald; */
     font-family: Inconsolata;
 }
@@ -16,25 +19,62 @@ p {
     text-decoration: none;
 }
 
-a {
-    color: white;
-}
-a:visited {
-    color: #fff;
-}
-a:hover {
-    color: #ddd;
+.red {
+    color: #FF001C;
 }
 
-.bio a, .teaching a {
-    color: black;
+.yellow {
+    color: #FFB300;
 }
-.bio a:visited, .teaching a:visited {
-    color: black;
+
+a, a:visited {
+    color: #FFB300;
+    overflow: hidden;
+    background: linear-gradient(to right, #FF001C, #FF001C 50%, #FFB300 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+    transition: background-position 275ms ease;
+    text-decoration: none;
 }
-.bio a:hover, .teaching a:hover {
-    color: #999;
+
+a.inverted, a:visited.inverted {
+    color: #FF001C;
+    overflow: hidden;
+    background: linear-gradient(to right, #000000, #000000 50%, #FF001C 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+    transition: background-position 275ms ease;
+    text-decoration: none;
 }
+a:hover {
+  background-position: 0 100%;
+}
+
+/* a { */
+/*     color: #FFB300; */
+/* } */
+/* a:visited { */
+/*     color: #FFB300; */
+/* } */
+/* a:hover { */
+/*     color: #FF001C; */
+/* } */
+
+/* .bio a, .teaching a { */
+/*     color: #FF001C; */
+/* } */
+/* .bio a:visited, .teaching a:visited { */
+/*     color: #FF001C; */
+/* } */
+/* .bio a:hover, .teaching a:hover { */
+/*     color: #999; */
+/* } */
 
 #hamnav a {
     padding: 0 22px;
@@ -65,11 +105,15 @@ a:hover {
     font-size: 300%;
     font-weight: 200;
     margin-bottom: 0;
+    text-decoration: underline;
+    text-decoration-color: #FF001C;
 }
 
 .splash-subhead {
     font-size: 100%;
     font-weight: 200;
+    /* text-decoration: underline; */
+    /* text-decoration-color: #FFB300; */
 }
 
 .splash .photo {
@@ -98,27 +142,33 @@ a:hover {
     gap: 24px;
 }
 
+.contacts b {
+    text-decoration: underline;
+    text-decoration-color: #FFB300;
+}
+
 .bio {
+    /* background-color: #FFEFCA; */
     background-color: white;
     color: #090809;
-    padding: 3.2em 0;
+    padding: 1.6em 0;
 }
 
 .research {
     background-color: #090809;
     color: white;
-    padding: 3.2em 0;
+    padding: 1.6em 0;
 }
 
 .teaching {
     color: black;
-    padding: 3.2em 0;
+    padding: 1.6em 0;
 }
 
 .links {
     background-color: white;
     color: #090809;
-    padding: 3.2em 0;
+    padding: 1.6em 0;
 }
 
 @media only screen and (max-width: 1200px) {
@@ -184,7 +234,7 @@ a:hover {
     /* Show Hamburger Icon */
     #hamnav label {
         display: inline-block;
-        color: white;
+        color: #FFB300;
         font-style: normal;
         font-size: 1.2em;
         padding: 10px;
