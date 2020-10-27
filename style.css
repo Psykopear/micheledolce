@@ -43,10 +43,12 @@ a:hover {
 .splash {
     display: grid;
     grid-template-columns: 500px 1fr;
-    /* grid-column-gap: 20px; */
     align-items: center;
     color: white;
     padding: 3.2em 0;
+}
+.splash-content {
+    /* margin: auto; */
 }
 
 .splash-wrapper {
@@ -62,6 +64,7 @@ a:hover {
 .splash-head {
     font-size: 300%;
     font-weight: 200;
+    margin-bottom: 0;
 }
 
 .splash-subhead {
@@ -70,7 +73,8 @@ a:hover {
 }
 
 .splash .photo {
-    margin: auto;
+    /* margin: auto; */
+    justify-self: end;
 }
 
 .wrapper {
