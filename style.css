@@ -40,20 +40,20 @@ a:hover {
     padding: 0 22px;
 }
 
+.splash-wrapper {
+    width: 100%;
+}
 .splash {
     display: grid;
-    grid-template-columns: 500px 1fr;
+    grid-template-columns: 360px 1fr;
     align-items: center;
+    max-width: 853px;
     color: white;
     padding: 3.2em 0;
+    margin: auto;
 }
 .splash-content {
     /* margin: auto; */
-}
-
-.splash-wrapper {
-    display: flex;
-    align-items: row;
 }
 
 .splash-head,
@@ -73,19 +73,20 @@ a:hover {
 }
 
 .splash .photo {
-    /* margin: auto; */
-    justify-self: end;
+    margin: auto;
+    /* justify-self: end; */
 }
 
 .wrapper {
-    display: grid;
-    grid-template-columns: 500px 1fr;
+    display: flex;
     background: white;
+    flex-direction: column;
+    width: 100%;
 }
 
 .text-wrapper {
     max-width: 640px;
-    /* padding-left: 20px; */
+    margin: auto;
 }
 
 .contacts {
