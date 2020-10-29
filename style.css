@@ -9,6 +9,10 @@ body {
     font-family: Inconsolata;
 }
 
+h1 {
+    margin: 0;
+}
+
 p {
     line-height: 1.5;
 }
@@ -29,31 +33,49 @@ p {
 
 a, a:visited {
     color: #FFB300;
-    overflow: hidden;
-    background: linear-gradient(to right, #78001C, #78001C 50%, #FFB300 50%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-size: 200% 100%;
-    background-position: 100%;
-    transition: background-position 275ms ease;
+    /* overflow: hidden; */
+    /* background: linear-gradient(to right, #78001C, #78001C 50%, #FFB300 50%); */
+    /* background-clip: text; */
+    /* -webkit-background-clip: text; */
+    /* -webkit-text-fill-color: transparent; */
+    /* background-size: 200% 100%; */
+    /* background-position: 100%; */
+    /* transition: background-position 150ms ease; */
     text-decoration: none;
+    position: relative;
+    display: inline-block;
 }
 
 a.inverted, a:visited.inverted {
     color: #78001C;
-    overflow: hidden;
-    background: linear-gradient(to right, #000000, #000000 50%, #78001C 50%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-size: 200% 100%;
-    background-position: 100%;
-    transition: background-position 275ms ease;
+    /* overflow: hidden; */
+    /* background: linear-gradient(to right, #000000, #000000 50%, #78001C 50%); */
+    /* background-clip: text; */
+    /* -webkit-background-clip: text; */
+    /* -webkit-text-fill-color: transparent; */
+    /* background-size: 200% 100%; */
+    /* background-position: 100%; */
+    /* transition: text-decoration 150ms ease; */
     text-decoration: none;
+    position: relative;
 }
-a:hover {
-  background-position: 0 100%;
+
+a::after {
+  content: "";
+  color: #FFB300;
+  top: 100%;
+  left: 0%;
+  height: 2px;
+  width: 100%;
+  transition: transform 150ms;
+  transform-origin: left center;
+  transform: scaleX(0);
+  will-change: transform;
+  position: absolute;
+}
+
+a:hover::after {
+  transform: scaleX(100%);
 }
 
 /* a { */
@@ -86,7 +108,6 @@ a:hover {
 .splash {
     display: grid;
     grid-template-columns: 300px 1fr;
-    align-items: center;
     max-width: 853px;
     color: white;
     padding: 3.2em 0;
