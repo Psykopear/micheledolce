@@ -157,6 +157,13 @@ a:hover::after {
     max-width: 640px;
     padding: 1em;
     margin: auto;
+    position: relative;
+}
+
+canvas {
+    position: absolute;
+    width: 100%;
+    height: 427px;
 }
 
 .contacts {
@@ -173,7 +180,6 @@ a:hover::after {
 }
 
 .bio {
-    /* background-color: #FFEFCA; */
     background-color: white;
     color: #090809;
     padding: 1.6em 0;
@@ -182,7 +188,8 @@ a:hover::after {
 .research {
     background-color: #090809;
     color: white;
-    padding: 1.6em 0;
+    /* padding: 1.6em 0; */
+    position: relative
 }
 
 .teaching {
