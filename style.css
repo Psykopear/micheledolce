@@ -2,10 +2,6 @@ body {
     padding: 0;
     margin: 0;
     background-color: #4c474a;
-    /* background-color: #FFB300; */
-    /* background-color: #090809; */
-
-    /* font-family: Oswald; */
     font-family: Inconsolata;
 }
 
@@ -33,14 +29,6 @@ p {
 
 a, a:visited {
     color: #FFB300;
-    /* overflow: hidden; */
-    /* background: linear-gradient(to right, #78001C, #78001C 50%, #FFB300 50%); */
-    /* background-clip: text; */
-    /* -webkit-background-clip: text; */
-    /* -webkit-text-fill-color: transparent; */
-    /* background-size: 200% 100%; */
-    /* background-position: 100%; */
-    /* transition: background-position 150ms ease; */
     text-decoration: none;
     position: relative;
     display: inline-block;
@@ -48,14 +36,6 @@ a, a:visited {
 
 a.inverted, a:visited.inverted {
     color: #78001C;
-    /* overflow: hidden; */
-    /* background: linear-gradient(to right, #000000, #000000 50%, #78001C 50%); */
-    /* background-clip: text; */
-    /* -webkit-background-clip: text; */
-    /* -webkit-text-fill-color: transparent; */
-    /* background-size: 200% 100%; */
-    /* background-position: 100%; */
-    /* transition: text-decoration 150ms ease; */
     text-decoration: none;
     position: relative;
 }
@@ -82,26 +62,6 @@ a:hover::after {
   transform: scaleX(1);
 }
 
-/* a { */
-/*     color: #FFB300; */
-/* } */
-/* a:visited { */
-/*     color: #FFB300; */
-/* } */
-/* a:hover { */
-/*     color: #FF001C; */
-/* } */
-
-/* .bio a, .teaching a { */
-/*     color: #FF001C; */
-/* } */
-/* .bio a:visited, .teaching a:visited { */
-/*     color: #FF001C; */
-/* } */
-/* .bio a:hover, .teaching a:hover { */
-/*     color: #999; */
-/* } */
-
 #hamnav a {
     margin: 0 22px;
 }
@@ -117,9 +77,6 @@ a:hover::after {
     padding: 3.2em 0;
     margin: auto;
 }
-.splash-content {
-    /* margin: auto; */
-}
 
 .splash-head,
 .splash-subhead {
@@ -130,20 +87,15 @@ a:hover::after {
     font-size: 300%;
     font-weight: 200;
     margin-bottom: 0;
-    /* text-decoration: underline; */
-    /* text-decoration-color: #78001C; */
 }
 
 .splash-subhead {
     font-size: 100%;
     font-weight: 200;
-    /* text-decoration: underline; */
-    /* text-decoration-color: #FFB300; */
 }
 
 .splash .photo {
     margin: auto;
-    /* justify-self: end; */
 }
 
 .wrapper {
@@ -188,7 +140,6 @@ canvas {
 .research {
     background-color: #090809;
     color: white;
-    /* padding: 1.6em 0; */
     position: relative
 }
 
@@ -239,6 +190,7 @@ canvas {
         display: none;
     }
 }
+
 /* [ON BIG SCREEN] */
 /* Wrapper */
 #hamnav {
