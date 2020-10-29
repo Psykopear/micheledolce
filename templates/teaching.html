@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="wrapper">
+<div class="section light">
+<div class="text-wrapper">
+{{ section.content | safe }}
+{% for post in section.pages %}
+{{ post.content | safe }}
+{% endfor %}
+</div>
+</div>
+</div>
+{% endblock %}
+

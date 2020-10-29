@@ -1,0 +1,45 @@
+.splash-wrapper {
+    width: 100%;
+
+    .splash {
+        display: grid;
+        grid-template-columns: 300px 1fr;
+        max-width: 853px;
+        color: white;
+        padding: 3.2em 0;
+        margin: auto;
+
+        .photo {
+            margin: auto;
+        }
+
+        .contacts {
+            margin-top: 48px;
+            max-width: 853px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 24px;
+            .mark {
+                text-decoration: underline;
+                text-decoration-color: var(--yellow);
+            }
+        }
+
+        .head,
+        .subhead {
+            text-transform: uppercase;
+        }
+
+        .head {
+            font-size: 300%;
+            font-weight: 200;
+            margin-bottom: 0;
+        }
+
+        .subhead {
+            font-size: 100%;
+            font-weight: 200;
+        }
+    }
+}
+
