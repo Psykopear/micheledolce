@@ -2,12 +2,13 @@
     --red: #78001C;
     --yellow: #FFB300;
     --grey: #4c474a;
+    --black: #000000;
 }
 
 body {
     padding: 0;
     margin: 0;
-    background-color: var(--grey);
+    background-color: var(--black);
     font-family: Inconsolata;
 }
 
