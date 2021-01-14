@@ -3,7 +3,7 @@
 {% block content %}
 <div class="wrapper">
     <div class="section light">
-        <div class="text-wrapper">
+        <div class="text-wrapper research">
             {{ section.content | safe }}
             {% for post in section.pages %}
             {{ post.content | safe }}
@@ -11,8 +11,10 @@
         </div>
     </div>
     <div class="section dark">
-        <canvas></canvas>
-        <script src="simulation.js"></script>
+        <div class="canvas-wrapper">
+            <canvas></canvas>
+            <script src={{ get_url(path="simulation.js") }}></script>
+        </div>
     </div>
 </div>
 {% endblock %}

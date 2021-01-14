@@ -1,5 +1,5 @@
 +++
-title = "Research"
+title = "Michele Dolce - Research"
 template = "research.html"
 slug = "research"
 +++

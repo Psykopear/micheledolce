@@ -1,6 +1,6 @@
 <nav id="hamnav">
     <div class="left">
-        <a class="header-left" href="{{ config.base_url | safe }}">
+        <a class="header-left" href={{ get_url(path="@/_index.md") }}>
             <b>MICHELE DOLCE</b>
         </a>
     </div>
@@ -9,8 +9,12 @@
         <label for="hamburger">&#9776;</label>
         <input type="checkbox" id="hamburger"/>
         <div id="hamitems">
-            <a href="research.html">Research</a>
-            <a href="teaching.html">Teaching</a>
+            <!-- <a href={{ get_url(path="@/research/_index.md")}}>Research</a> -->
+            <!-- <a href={{ get_url(path="@/teaching/_index.md")}}>Teaching</a> -->
+            <!-- <a href={{ get_url(path="@/seminars/_index.md")}}>Seminars</a> -->
+            <a href="{{ config.base_url | safe }}/research.html">Research</a>
+            <a href="{{ config.base_url | safe }}/teaching.html">Teaching</a>
+            <a href="{{ config.base_url | safe }}/seminars.html">Seminars</a>
         </div>
     </div>
 </nav>

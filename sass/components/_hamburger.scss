@@ -5,16 +5,17 @@
     text-decoration: none;
 }
 
-#hamnav a {
-    margin: 0 22px;
+#hamitems {
+    a,a:visited,a:hover {
+        margin: 0 1em;
+    }
 }
 
 /* [ON BIG SCREEN] */
 /* Wrapper */
 #hamnav {
-    width: 100%;
     height: 75px;
-    background: #000000e0;
+    background: #000000f0;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -24,6 +25,7 @@
     position: sticky;
     top: 0;
     z-index: 1000;
+    padding: 0 1em;
 }
 
 /* Hide Hamburger */
@@ -37,7 +39,7 @@
     /* Show Hamburger Icon */
     #hamnav label {
         display: inline-block;
-        color: var(-yellow);
+        color: var(--yellow);
         font-style: normal;
         font-size: 1.2em;
         padding: 10px;
@@ -48,13 +50,8 @@
         box-sizing: border-box;
         display: block;
         width: 100%;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        border-top: 1px solid #333;
-    }
-
-    #hamitems a:hover {
-        background-color: black;
+        padding-top: 0.6em;
+        padding-bottom: 0.6em;
     }
 
     /* Toggle Show/Hide Menu */
@@ -64,10 +61,10 @@
     #hamnav input:checked ~ #hamitems {
         display: block;
         margin-top: 75px;
-        width: 100%;
         position: fixed;
         top: 0;
         right: 0;
         background: #000000e0;
+        padding: 1em;
     }
 }

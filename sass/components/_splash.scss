@@ -44,3 +44,26 @@
     }
 }
 
+
+/** media query for small screens **/
+@media only screen and (max-width: 1200px) {
+.splash-wrapper {
+    .splash {
+        grid-template-columns: 1fr;
+        padding: 0;
+        text-align: center;
+        .photo {
+            margin: auto;
+            margin-top: 100px;
+        }
+        .content {
+            justify-self: center;
+            padding: 20px;
+        }
+        .contacts {
+            justify-content: center;
+        }
+
+    }
+}}
+
