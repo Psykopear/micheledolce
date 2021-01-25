@@ -16,14 +16,18 @@ jobs:
       - name: Build
         run: |
           sh build.sh
+      - uses: benjlevesque/short-sha@v1.2
+        id: short-sha
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
+        with:
+          length: 6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.sha }}
-          release_name: Release ${{ github.sha }}
+          tag_name: ${{ env.SHA }}
+          release_name: Release ${{ ENV.sha }}
           draft: false
           prerelease: false
       - name: Upload Release Asset
