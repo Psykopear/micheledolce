@@ -1,6 +1,7 @@
 +++
 title = "Research content"
 render = false
+trasnparent = true
 +++
 
 My research interests are focused on problems related to fluid dynamics,
