@@ -6,6 +6,7 @@ slug = "teaching"
 
 ## Reading Courses
 **Fall 2020** Spectral theory in fluid mechanics
+
 **Spring 2020** Theory of Weak Turbulence for the Nonlinear Schr¨odinger
 Equation
 
