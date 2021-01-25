@@ -20,6 +20,10 @@ p {
     line-height: 1.5;
 }
 
+ol > li::marker {
+  font-weight: bold;
+}
+
 a, a:visited {
     color: var(--yellow);
     text-decoration: none;
