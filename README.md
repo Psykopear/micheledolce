@@ -1,4 +1,4 @@
-# Michele Docle
+# Michele Dolce
 
 Academic webpage for my brother
 

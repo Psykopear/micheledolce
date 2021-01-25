@@ -6,5 +6,5 @@ slug = "seminars"
 
 ## Seminars
 Here are links to some upcoming seminars:
-- [Applied PDEs Seminar](http://wwwf.imperial.ac.uk/~mcotizel/seminar.html) at Imperial College London 
+- [Applied PDEs Seminar](https://www.imperial.ac.uk/ammp/seminars--events/ammp-research-group-seminars/applied-pdes-seminar/) at Imperial College London 
 
