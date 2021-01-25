@@ -4,6 +4,8 @@ render = false
 trasnparent = true
 +++
 
+## Research
+
 My research interests are focused on problems related to fluid dynamics,
 for both compressible and incompressible fluids.  
 I am currently working on stability problems such as inviscid damping
