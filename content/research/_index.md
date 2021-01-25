@@ -8,7 +8,7 @@ slug = "research"
 ## Research
 
 My main research interests lie in the analysis of partial differential equation.  
-In particular, are focused on problems related to fluid dynamics.
+In particular, I am focusing on problems related to fluid dynamics.
 
 Most of my papers are available on [arXiv](https://arxiv.org/a/0000-0002-6254-2070.html).
 
