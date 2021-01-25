@@ -18,11 +18,11 @@ jobs:
           sh build.sh
       - uses: benjlevesque/short-sha@v1.2
         id: short-sha
+        with:
+          length: 6
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
-        with:
-          length: 6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
