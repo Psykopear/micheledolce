@@ -19,7 +19,6 @@ jobs:
           BUILD_DIR: .
           TOKEN: ${{ secrets.TOKEN }}
           BUILD_ONLY: true
-      - name: Prepare artifact
         run: |
           sh cleanup.sh
           zip --junk-paths website public
