@@ -17,10 +17,10 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '12'
-        env:
-          BASE_PATH: "/~mdolce"
       - run: yarn install
       - run: yarn export
+        env:
+          BASE_PATH: "/~mdolce"
       - run: cd out && zip -r website *
       - uses: benjlevesque/short-sha@v1.2
         id: short-sha
