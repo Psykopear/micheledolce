@@ -21,6 +21,7 @@ jobs:
       - run: yarn export
         env:
           BASE_PATH: "/~mdolce"
+          TRAILING_SLASH: true
       - run: cd out && zip -r website *
       - uses: benjlevesque/short-sha@v1.2
         id: short-sha
