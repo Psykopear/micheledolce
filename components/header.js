@@ -4,9 +4,9 @@ const Header = () => {
   return (
     <nav id="hamnav">
       <div className="left">
-        <a className="header-left" href="/">
-          <b>MICHELE DOLCE</b>
-        </a>
+        <Link className="header-left" href="/">
+          MICHELE DOLCE
+        </Link>
       </div>
 
       <div className="right">

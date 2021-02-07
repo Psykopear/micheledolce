@@ -17,6 +17,8 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '12'
+        env:
+          BASE_PATH: "/~mdolce"
       - run: yarn install
       - run: yarn export
       - run: zip website out/*
