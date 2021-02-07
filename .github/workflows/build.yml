@@ -19,7 +19,7 @@ jobs:
           node-version: '12'
       - run: yarn install
       - run: yarn export
-      - run: zip --junk-paths website out/*
+      - run: zip website out/*
       - uses: benjlevesque/short-sha@v1.2
         id: short-sha
         with:
