@@ -1,7 +1,4 @@
 # Michele Dolce
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ccf0dce3-4e56-4c7a-b2c3-324a7821d1b5/deploy-status)](https://app.netlify.com/sites/hardcore-bell-5e00d2/deploys)
 
-Academic webpage for my brother
-
-Modify files inside the [content folder](./content) to update the copy.
-
-On every commit in master, a new release is generated with the compiled files.
+Personal website for my brother

@@ -14,8 +14,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Build
-        run: |
-          sh build.sh
+        uses: actions/setup-node@v2
+        with:
+          node-version: '12'
+      - run: yarn install
+      - run: yarn export
+      - run: zip --junk-paths website out/*
       - uses: benjlevesque/short-sha@v1.2
         id: short-sha
         with:
