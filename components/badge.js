@@ -10,14 +10,14 @@ const Badge = ({ title, description, email, links, photo }) => {
             <div>
               <b>Email</b>
               <pre>
-                <a href={`"mailto:${email}"`}>{email}</a>
+                <a href={`mailto:${email}`}>{email}</a>
               </pre>
             </div>
             {links.map((l) => (
               <div key={l.name}>
                 <b>{l.name}</b>
                 <pre>
-                  <a href={`"${l.url}"`}>Download</a>
+                  <a href={l.url}>Download</a>
                 </pre>
               </div>
             ))}

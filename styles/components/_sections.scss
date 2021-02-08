@@ -25,6 +25,15 @@ canvas {
     position: relative;
 }
 
+.dark.section {
+    background-color: #090809;
+    color: white;
+
+    h2,h3,a {
+        color: var(--yellow);
+    }
+}
+
 .light.section {
     background-color: white;
     color: #090809;
@@ -32,14 +41,11 @@ canvas {
     h2,h3,a {
         color: var(--red);
     }
-}
-
-.dark.section {
-    background-color: #090809;
-    color: white;
-
-    h2,h3,a {
-        color: var(--yellow);
+    a,a:visited {
+        color: var(--red);
+    }
+    a::after {
+        background-color: var(--red);
     }
 }
 

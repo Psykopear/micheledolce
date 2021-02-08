@@ -30,14 +30,13 @@ const Research = () => {
               <li key={p.title}>
                 {p.author}
                 <i> {p.title}</i> ({p.year})
-                <Journal journal={p.journal} />
-                <br />
+                {", "}<Journal journal={p.journal} />
                 {p.publisher && (
                   <>
-                    <OptionalUrl data={p.publisher} />
-                    <br />
+                    {", "}<OptionalUrl data={p.publisher} />
                   </>
                 )}
+                <br />
                 {p.links.map((l) => (
                   <span key={l.url}>
                     <Link href={l.url}>{l.name}</Link>

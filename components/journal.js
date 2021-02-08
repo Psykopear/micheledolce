@@ -2,12 +2,12 @@ import OptionalUrl from "./optionalUrl";
 
 const Journal = ({ journal }) => {
   if (!journal || !journal.name) return <></>;
-  const { volume, pages } = journal;
+  const { volume, pages, url, name } = journal;
   return (
     <span>
-      , <OptionalUrl data={journal} />
-      {volume && `, ${volume}`}
-      {pages && `, ${pages}`}.
+      <OptionalUrl url={url} name={name} />
+      {volume && ` ${volume}`}
+      {pages && ` ${pages}`}.
     </span>
   );
 };

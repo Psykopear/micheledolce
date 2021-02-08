@@ -31,13 +31,6 @@ a, a:visited {
     color: var(--yellow);
     text-decoration: none;
     position: relative;
-    display: inline-block;
-}
-
-a.inverted, a:visited.inverted {
-    color: var(--red);
-    text-decoration: none;
-    position: relative;
 }
 
 a::after {
@@ -52,10 +45,6 @@ a::after {
     transform: scaleX(0);
     will-change: transform;
     position: absolute;
-}
-
-a.inverted::after {
-    background-color: var(--red);
 }
 
 a:hover::after {
