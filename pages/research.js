@@ -30,10 +30,16 @@ const Research = () => {
               <li key={p.title}>
                 {p.author}
                 <i> {p.title}</i> ({p.year})
-                {", "}<Journal journal={p.journal} />
+                {p.journal && (
+                  <>
+                    {", "}
+                    <Journal journal={p.journal} />
+                  </>
+                )}
                 {p.publisher && (
                   <>
-                    {", "}<OptionalUrl data={p.publisher} />
+                    {", "}
+                    <OptionalUrl data={p.publisher} />
                   </>
                 )}
                 <br />
