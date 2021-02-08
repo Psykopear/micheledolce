@@ -7,7 +7,7 @@ const Journal = ({ journal }) => {
     <span>
       <OptionalUrl url={url} name={name} />
       {volume && <b> {volume}</b>}
-      {pages && ` ${pages}`}.
+      {pages && ` ${pages}`}
     </span>
   );
 };
