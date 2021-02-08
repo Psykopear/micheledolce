@@ -31,11 +31,12 @@ papers:
     journal:
       name: Journal of Dynamics and Differential Equations
       url: https://doi.org/10.1007/s10884-019-09808-4
-      pages: 1-28
+      pages: 35-62
+      volume: "33"
     links:
       - name: arXiv:1805.06815
         url: https://arxiv.org/abs/1805.06815
-    year: 2019
+    year: 2021
 ---
 ## Research
 
