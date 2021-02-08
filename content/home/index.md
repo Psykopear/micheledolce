@@ -5,5 +5,5 @@ description: Research assistant in Mathematics at Imperial College London
 email: m.dolce@imperial.ac.uk
 links:
   - name: Curriculum Vitae
-    url: cv.pdf
+    url: CV_MD.pdf
 ---
