@@ -1,3 +1,5 @@
+import OptionalUrl from "./optionalUrl";
+
 const Journal = ({ journal }) => {
   if (!journal || !journal.name) return <></>;
   const { volume, pages } = journal;
