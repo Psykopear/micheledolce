@@ -6,7 +6,7 @@ const Journal = ({ journal }) => {
   return (
     <span>
       <OptionalUrl url={url} name={name} />
-      {volume && ` ${volume}`}
+      {volume && <b> {volume}</b>}
       {pages && ` ${pages}`}.
     </span>
   );
