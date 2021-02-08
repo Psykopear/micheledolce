@@ -29,13 +29,14 @@ const Research = () => {
             {papers.map((p) => (
               <li key={p.title}>
                 {p.author}
-                <i> {p.title}</i> ({p.year})
+                <i> {p.title}</i>
                 {p.journal && (
                   <>
                     {", "}
                     <Journal journal={p.journal} />
                   </>
                 )}
+                <span> ({p.year}).</span>
                 {p.publisher && (
                   <>
                     {", "}

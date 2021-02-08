@@ -2,7 +2,7 @@
 papers:
   - author: Antonelli, P., Dolce, M., & Marcati, P.
     title: Linear stability analysis of the homogeneous Couette flow in a 2D
-      isentropic compressible fluid.
+      isentropic compressible fluid
     year: 2021
     links:
       - name: arXiv:2101.01696
@@ -27,7 +27,7 @@ papers:
         url: http://arxiv.org/abs/1907.04012
   - author: Dolce, M., & Donatelli, D.
     title: Artificial compressibility method for the Navier–Stokes–Maxwell–Stefan
-      system.
+      system
     journal:
       name: Journal of Dynamics and Differential Equations
       url: https://doi.org/10.1007/s10884-019-09808-4
