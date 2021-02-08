@@ -89,14 +89,14 @@ collections:
                   name: "url"
                   widget: "string"
                   required: false
-            - label: "Volume"
-              name: "volume"
-              widget: "string"
-              required: false
-            - label: "Pages"
-              name: "pages"
-              widget: "string"
-              required: false
+                - label: "Volume"
+                  name: "volume"
+                  widget: "string"
+                  required: false
+                - label: "Pages"
+                  name: "pages"
+                  widget: "string"
+                  required: false
             - label: "Publisher"
               name: "publisher"
               required: false
