@@ -45,6 +45,6 @@ for both compressible and incompressible fluids.\
 I am currently working on stability problems such as inviscid damping
 and enhanced dissipation.
 
-You can find my PhD thesis [here](https://iris.gssi.it/handle/20.500.12571/15111#.YAM8auj7RPY), with title "*Linear stability analysis of stationary Euler flows for passive scalars and inhomogeneous fluids*". 
+You can find my PhD thesis [here](https://wwwf.imperial.ac.uk/~mdolce/2020_Dolce.pdf), with title "*Linear stability analysis of stationary Euler flows for passive scalars and inhomogeneous fluids*". 
 
 Here is a list of my papers:
