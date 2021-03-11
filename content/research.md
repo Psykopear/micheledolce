@@ -1,5 +1,12 @@
 ---
 papers:
+  - title: Global Existence for the Two-dimensional Kuramoto-Sivashinsky equation
+      with a Shear Flow
+    author: Coti Zelati, M., Dolce, M., Feng, Y. & Mazzucato, A.L.
+    year: 2021
+    links:
+      - url: https://arxiv.org/abs/2103.02971
+        name: arXiv:2103.02971
   - author: Antonelli, P., Dolce, M., & Marcati, P.
     title: Linear stability analysis of the homogeneous Couette flow in a 2D
       isentropic compressible fluid
