@@ -21,6 +21,8 @@ papers:
     links:
       - name: arXiv:2005.09058
         url: https://arxiv.org/abs/2005.09058
+    journal:
+      name: Indiana University Mathematics Journal, to appear.
   - author: Coti Zelati, M., & Dolce, M.
     title: Separation of time-scales in drift-diffusion equations on R2
     year: 2020
