@@ -1,5 +1,12 @@
 ---
 papers:
+  - title: Nonlinear inviscid damping and shear-buoyancy instability in the
+      two-dimensional Boussinesq equations
+    author: Bedrossian, J., Bianchini, R., Coti Zelati, M. & Dolce, M.
+    year: 2020
+    links:
+      - url: https://arxiv.org/abs/2103.13713
+        name: arXiv:2103.13713
   - title: Global Existence for the Two-dimensional Kuramoto-Sivashinsky equation
       with a Shear Flow
     author: Coti Zelati, M., Dolce, M., Feng, Y. & Mazzucato, A.L.
