@@ -3,7 +3,7 @@ papers:
   - title: Nonlinear inviscid damping and shear-buoyancy instability in the
       two-dimensional Boussinesq equations
     author: Bedrossian, J., Bianchini, R., Coti Zelati, M. & Dolce, M.
-    year: 2020
+    year: 2021
     links:
       - url: https://arxiv.org/abs/2103.13713
         name: arXiv:2103.13713
