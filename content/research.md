@@ -46,6 +46,13 @@ papers:
       - name: arXiv:1805.06815
         url: https://arxiv.org/abs/1805.06815
     year: 2021
+  - title: Nonlinear inviscid damping and shear-buoyancy instability in the
+      two-dimensional Boussinesq equations
+    author: Bedrossian, J., Bianchini, R., Coti Zelati, M. & Dolce, M.
+    year: 2020
+    links:
+      - url: https://arxiv.org/abs/2103.13713
+        name: arXiv:2103.13713
 ---
 ## Research
 
