@@ -14,6 +14,8 @@ papers:
     links:
       - url: https://arxiv.org/abs/2103.02971
         name: arXiv:2103.02971
+    journal:
+      name: Journal of Evolution Equations, to appear.
   - author: Antonelli, P., Dolce, M., & Marcati, P.
     title: Linear stability analysis of the homogeneous Couette flow in a 2D
       isentropic compressible fluid
