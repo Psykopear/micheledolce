@@ -1,7 +1,6 @@
 ## Current Courses
 
-**Fall 2021** 
-"Theory of partial differential equations", MATH96018/97027/97104, Imperial College London
+**Fall 2021**  "Theory of partial differential equations", MATH96018/97027/97104, Imperial College London
 
 ## Reading Courses
 
