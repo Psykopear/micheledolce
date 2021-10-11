@@ -11,4 +11,4 @@ Equation
 
 ## Past Courses
 
-**Spring 2019** PhD short course (4 hr) on "Shear flows problems", Gran Sasso Science Institute
+**Spring 2019** PhD short course on "Shear flows problems", Gran Sasso Science Institute
