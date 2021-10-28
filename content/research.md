@@ -24,7 +24,10 @@ papers:
       - name: arXiv:2101.01696
         url: https://arxiv.org/abs/2101.01696
     journal:
-      name: Annals of PDE, to appear.
+      name: Annals of PDE
+      url: https://doi.org/10.1007/s40818-021-00112-3
+      volume: "7"
+      pages: "24"
   - author: Bianchini, R., Coti Zelati, M. & Dolce, M.
     title: Linear inviscid damping for shear flows near Couette in the 2D stably
       stratified regime
