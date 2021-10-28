@@ -66,4 +66,6 @@ The interest in addressing these questions dates back to the end of the XIXth ce
 
 You can find my PhD thesis [here](https://wwwf.imperial.ac.uk/~mdolce/2020_Dolce.pdf), whose title is "*Linear stability analysis of stationary Euler flows for passive scalars and inhomogeneous fluids*". 
 
+A more detailed explanation of my research is given in my [Research Statement](https://www.ma.imperial.ac.uk/~mdolce/research_statement_MD).
+
 Here is a list of my papers:
