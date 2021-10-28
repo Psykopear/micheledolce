@@ -4,9 +4,7 @@ I am a Research Associate in Mathematics at Imperial College London, in the Appl
 
 I obtained a PhD degree from the Gran Sasso Science Institute, November 2020, under the supervision of Dr Michele Coti Zelati.
 
-I am currently looking for a position starting in September 2022. You can find my Research statement and Curriculum Vitae below. 
-
-[Research Statement](https://wwwf.imperial.ac.uk/~mdolce/research_statement_MD.pdf) & [Curriculum Vitae](https://wwwf.imperial.ac.uk/~mdolce/CV_MD.pdf) (last updated 28/10/2021) 
+I am currently looking for a position starting in September 2022. You can find here my [Research Statement](https://wwwf.imperial.ac.uk/~mdolce/research_statement_MD.pdf) and [Curriculum Vitae](https://wwwf.imperial.ac.uk/~mdolce/CV_MD.pdf) (last updated 28/10/2021).   
 
 ### Support Acknowledgement
 
