@@ -1,7 +1,7 @@
 ---
 photo: img/foto.jpg
 title: Michele Dolce
-description: Research assistant in Mathematics at Imperial College London
+description: Research Associate in Mathematics at Imperial College London
 email: m.dolce@imperial.ac.uk
 links:
   - name: Curriculum Vitae
