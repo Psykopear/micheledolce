@@ -1,9 +1,17 @@
 ---
 papers:
+  - journal:
+      name: ""
+    title: On maximally mixed equilibria of two-dimensional perfect fluids
+    author: "Dolce, M. & Drivas, T. D. "
+    year: 2021
+    links:
+      - name: arXiv:2204.03587
+        url: https://arxiv.org/abs/2204.03587
   - title: Nonlinear inviscid damping and shear-buoyancy instability in the
       two-dimensional Boussinesq equations
     author: Bedrossian, J., Bianchini, R., Coti Zelati, M. & Dolce, M.
-    year: 2021
+    year: 2022
     links:
       - url: https://arxiv.org/abs/2103.13713
         name: arXiv:2103.13713
