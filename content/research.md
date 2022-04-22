@@ -4,7 +4,7 @@ papers:
       name: ""
     title: On maximally mixed equilibria of two-dimensional perfect fluids
     author: "Dolce, M. & Drivas, T. D. "
-    year: 2021
+    year: 2022
     links:
       - name: arXiv:2204.03587
         url: https://arxiv.org/abs/2204.03587
