@@ -1,5 +1,5 @@
-## Seminars
+## Seminars and workshops
 
-Here are links to some upcoming seminars:
+Here are links to upcoming seminars and workshops:
 
-* [Applied PDEs Seminar](https://www.imperial.ac.uk/ammp/seminars--events/ammp-research-group-seminars/applied-pdes-seminar/) at Imperial College London
+* [](https://www.epfl.ch/labs/anmath/seminars/)[Analysis seminars ](https://www.epfl.ch/labs/amcv/amcv/analysis-seminars/) at EPFL
