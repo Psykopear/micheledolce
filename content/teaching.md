@@ -4,7 +4,7 @@
 
 ## Reading Courses
 
-**Spring 2021** Non-uniqueness in the 2D forced Euler's equation
+**Spring 2022** Non-uniqueness in the 2D forced Euler's equation
 
 **Fall 2021** Growth of solutions for the 2D Euler's equation
 
