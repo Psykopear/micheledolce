@@ -7,4 +7,4 @@ Most of my papers are available on [arXiv](https://arxiv.org/a/0000-0002-6254-20
 
 You can find my PhD thesis [here](https://iris.gssi.it/handle/20.500.12571/15111#.YAM8auj7RPY).
 
-Here are my [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1400737), [Google Scholar](https://scholar.google.com/citations?user=0sJTT28AAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Michele_Dolce) profiles.
+Here are my [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211665080) [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1400737), [Google Scholar](https://scholar.google.com/citations?user=0sJTT28AAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Michele_Dolce) profiles.
