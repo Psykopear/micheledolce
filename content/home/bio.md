@@ -4,7 +4,7 @@ I﻿ am a Postdoc in mathematics at the École Polytechnique Fédérale de Lausa
 
 I obtained a PhD degree from the Gran Sasso Science Institute, in November 2020, under the supervision of Prof. Michele Coti Zelati.
 
-You can find here my [Curriculum Vitae](https://wwwf.imperial.ac.uk/~mdolce/CV_MD.pdf).   
+You can find here my [Curriculum Vitae](https://github.com/Psykopear/micheledolce/raw/main/public/img/cv_md.pdf).   
 
 ### Support Acknowledgement
 
