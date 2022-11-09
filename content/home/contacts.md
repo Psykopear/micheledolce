@@ -1,12 +1,15 @@
 ## Contacts
 ### Office
 
-Huxley 6M22
+MA B2 452
 
 ### Mailing Address
 
-Department of Mathematics  
-Huxley Building  
-180 Queen’s Gate  
-Imperial College London  
-London SW7 2AZ
+EPFL SB MATH
+MA B2 452 (Bâtiment MA)
+Station 8
+CH-1015 Lausanne
+
+
+
+
