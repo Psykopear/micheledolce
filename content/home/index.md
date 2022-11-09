@@ -5,5 +5,5 @@ description: Postdoc in mathematics at EPFL
 email: michele.dolce@epfl.ch
 links:
   - name: Curriculum Vitae
-    url: public/img/foto.jpg
+    url: https://github.com/Psykopear/micheledolce/raw/main/public/img/cv_md.pdf
 ---
