@@ -51,12 +51,15 @@ papers:
   - author: Bianchini, R., Coti Zelati, M. & Dolce, M.
     title: Linear inviscid damping for shear flows near Couette in the 2D stably
       stratified regime
-    year: 2020
+    year: 2006
     links:
       - name: arXiv:2005.09058
         url: https://arxiv.org/abs/2005.09058
     journal:
-      name: Indiana University Mathematics Journal, to appear.
+      name: Indiana University Mathematics Journal
+      url: https://doi.org/10.1512/iumj.2022.71.9040
+      volume: 71, 4
+      pages: 1467–1504
   - author: Coti Zelati, M., & Dolce, M.
     title: Separation of time-scales in drift-diffusion equations on R2
     year: 2020
