@@ -16,7 +16,7 @@ jobs:
       - name: Build
         uses: actions/setup-node@v2
         with:
-          node-version: '12'
+          node-version: '13'
       - run: yarn install
       - run: yarn export
         env:
