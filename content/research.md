@@ -6,6 +6,9 @@ papers:
       name: ""
     year: 2022
     author: Bedrossian, J., Coti Zelati, M. & Dolce, M.
+    links:
+      - name: arXiv:2211.05079
+        url: https://arxiv.org/abs/2211.05079
   - journal:
       name: Archive for Rational Mechanics and Analysis
       url: https://doi.org/10.1007/s00205-022-01825-w
