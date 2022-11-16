@@ -54,7 +54,7 @@ papers:
   - author: Bianchini, R., Coti Zelati, M. & Dolce, M.
     title: Linear inviscid damping for shear flows near Couette in the 2D stably
       stratified regime
-    year: 2006
+    year: 2022
     links:
       - name: arXiv:2005.09058
         url: https://arxiv.org/abs/2005.09058
