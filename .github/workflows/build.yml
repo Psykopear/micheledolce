@@ -17,8 +17,8 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '16'
-      - run: yarn install
-      - run: yarn export
+      - run: npm install
+      - run: npm run export
         env:
           BASE_PATH: "/~mdolce"
           TRAILING_SLASH: true
