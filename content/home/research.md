@@ -9,8 +9,6 @@ I﻿ am one of the organizers of the following events:
 
 F﻿or all the information about the event, please follow the links.
 
-
-
 ## Research
 
 My main research interests lie in the analysis of partial differential equations. In particular, I am focusing on problems related to fluid dynamics and kinetic theory.\
