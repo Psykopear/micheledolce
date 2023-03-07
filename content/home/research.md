@@ -4,6 +4,9 @@ I﻿ am one of the organizers of the following events:
 
 * Summer school: *[Deterministic and random features of fluids](https://www.epfl.ch/labs/amcv/amcv/events/summer-school-deterministic-and-random-features-of-fluids/),* EPFL, Lausanne, July 3rd-7th, 2023\
   O﻿rganized with: Maria Colombo, Lucio Galeati, Massimo Sorella.
+
+
+
 * Bernoulli Workshop: *[Enjoying Probability and Fluids in Lausanne](https://www.epfl.ch/labs/amcv/amcv/events/young-researcher-workshop-enjoying-probability-and-fluids-in-lausanne/)*, Bernoulli Center, EPFL, Lausanne, 18th-22nd September 2023\
   O﻿rganized with: Lucio Galeati, Massimo Sorella.
 
