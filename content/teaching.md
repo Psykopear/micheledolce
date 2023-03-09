@@ -1,8 +1,10 @@
 ## Current Courses
 
-**Fall 2022** I am not teaching this semester.
+*﻿*Spring 2023** Teaching assistant Analisis IV
 
-## Reading Courses
+## Reading Groups
+
+*﻿*Fall 2022/Spring 2023** Lagrangian chaos and scalar advection in stochastic fluid mechanics
 
 **Spring 2022** Non-uniqueness in the 2D forced Euler's equation
 
