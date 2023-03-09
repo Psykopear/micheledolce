@@ -2,6 +2,12 @@
 
 *﻿*Spring 2023** Teaching assistant Analisis IV
 
+## Past Courses
+
+**Fall 2021**  "Theory of partial differential equations", MATH96018/97027/97104, Imperial College London.
+
+**Spring 2019** PhD short course on "Shear flows problems", Gran Sasso Science Institute
+
 ## Reading Groups
 
 *﻿*Fall 2022/Spring 2023** Lagrangian chaos and scalar advection in stochastic fluid mechanics
@@ -14,11 +20,6 @@
 
 **Spring 2020** Theory of Weak Turbulence for the Nonlinear Schrödinger Equation
 
-## Past Courses
-
-**Fall 2021**  "Theory of partial differential equations", MATH96018/97027/97104, Imperial College London.
-
-**Spring 2019** PhD short course on "Shear flows problems", Gran Sasso Science Institute
 
 ### Ardila's axioms
 
