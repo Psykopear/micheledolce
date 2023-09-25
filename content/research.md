@@ -1,5 +1,28 @@
 ---
 papers:
+  - title: Symmetrization and asymptotic stability in non-homogeneous fluids around
+      stratified shear flows
+    author: Bianchini, R., Coti Zelati, M. & Dolce, M.
+    journal:
+      name: Note for the seminar Laurent Schwartz
+    year: 2024
+    links:
+      - name: arXiv:2309.12738
+        url: https://arxiv.org/abs/2309.12738
+  - title: Stability threshold of the 2D Couette flow in a homogeneous magnetic
+      field using symmetric variables
+    author: Dolce, M.
+    year: 2023
+    links:
+      - name: arXiv:2308.12589
+        url: https://arxiv.org/abs/2308.12589
+  - title: Diffusion enhancement and Taylor dispersion for rotationally symmetric
+      flows in discs and pipes
+    author: " Coti Zelati, M., Dolce, M. & Lo, C-C"
+    links:
+      - name: arXiv:2305.18162
+        url: https://arxiv.org/abs/2305.18162
+    year: 2023
   - title: Taylor dispersion and phase mixing in the non-cutoff Boltzmann equation
       on the whole space
     journal:
@@ -27,6 +50,9 @@ papers:
     links:
       - url: https://arxiv.org/abs/2103.13713
         name: arXiv:2103.13713
+    journal:
+      name: Communications on Pure and Applied Mathematics
+      url: https://onlinelibrary.wiley.com/doi/full/10.1002/cpa.22123
   - title: Global Existence for the Two-dimensional Kuramoto-Sivashinsky equation
       with a Shear Flow
     author: Coti Zelati, M., Dolce, M., Feng, Y. & Mazzucato, A.L.
