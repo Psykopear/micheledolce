@@ -5,7 +5,7 @@ papers:
     author: Bianchini, R., Coti Zelati, M. & Dolce, M.
     journal:
       name: Note for the seminar Laurent Schwartz
-    year: 2024
+    year: 2025
     links:
       - name: arXiv:2309.12738
         url: https://arxiv.org/abs/2309.12738
