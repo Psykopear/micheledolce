@@ -8,5 +8,5 @@ You can find here my [Curriculum Vitae](https://github.com/Psykopear/micheledolc
 
 ### Support Acknowledgement
 
-I  am part of the project ERC 2023-2028 – TENSE. I am supported by the Swiss State Secretariat for Education, Research and lnnovation (SERI) under contract number M822.00034.\
+I am supported by the Swiss State Secretariat for Education, Research and Innovation (SERI) under contract number M822.00034 through the project TENSE.
 I am partially funded by the GNAMPA group of INdAM.
