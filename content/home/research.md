@@ -1,14 +1,6 @@
 ## N﻿ews
 
-I﻿ am one of the organizers of the following events:
-
-* Summer school: *[Deterministic and random features of fluids](https://www.epfl.ch/labs/amcv/amcv/events/summer-school-deterministic-and-random-features-of-fluids/),* EPFL, Lausanne, July 3rd-7th, 2023\
-  O﻿rganized with: Maria Colombo, Lucio Galeati, Massimo Sorella.
-
-* Bernoulli Workshop: *[Enjoying Probability and Fluids in Lausanne](https://www.epfl.ch/labs/amcv/amcv/events/young-researcher-workshop-enjoying-probability-and-fluids-in-lausanne/)*, Bernoulli Center, EPFL, Lausanne, 18th-22nd September 2023\
-  O﻿rganized with: Lucio Galeati, Massimo Sorella.
-
-F﻿or all the information about the events, please follow the links above.
+I have been awarded the "*INdAM-UMI-SIMAI award 2023*" rewarding the authors of the best doctoral theses discussed in Italian universities on Mathematics topics in the period 2020-2023. See announcement [here](https://www.altamatematica.it/blog/2023/11/16/premi-indam-simai-umi-2023/)
 
 ## Research
 
