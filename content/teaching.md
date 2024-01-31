@@ -1,6 +1,8 @@
 ## Current Courses
 
-*﻿*Spring 2023** Teaching assistant Analisis IV
+**S﻿pring 2024** Teacher Functional Analysis II MATH-404
+
+**Spring 2023** Teaching assistant Analysis IV MATH-205
 
 ## Past Courses
 
@@ -10,7 +12,7 @@
 
 ## Reading Groups
 
-*﻿*Fall 2022/Spring 2023** Lagrangian chaos and scalar advection in stochastic fluid mechanics
+**Fall 2022/Spring 2023** Lagrangian chaos and scalar advection in stochastic fluid mechanics
 
 **Spring 2022** Non-uniqueness in the 2D forced Euler's equation
 
@@ -19,7 +21,6 @@
 **Fall 2020** Spectral theory in fluid mechanics
 
 **Spring 2020** Theory of Weak Turbulence for the Nonlinear Schrödinger Equation
-
 
 ### Ardila's axioms
 
