@@ -1,10 +1,12 @@
 ## Current Courses
 
+Free of teaching this semester
+
+## Past Courses
+
 **S﻿pring 2024** Teacher Functional Analysis II MATH-404
 
 **Spring 2023** Teaching assistant Analysis IV MATH-205
-
-## Past Courses
 
 **Fall 2021**  "Theory of partial differential equations", MATH96018/97027/97104, Imperial College London.
 
