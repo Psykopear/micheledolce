@@ -14,6 +14,8 @@ Free of teaching this semester
 
 ## Reading Groups
 
+**F﻿all 2023** Blow-up for the 3D Euler equations
+
 **Fall 2022/Spring 2023** Lagrangian chaos and scalar advection in stochastic fluid mechanics
 
 **Spring 2022** Non-uniqueness in the 2D forced Euler's equation
