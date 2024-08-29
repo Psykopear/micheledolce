@@ -1,16 +1,20 @@
 ## Current Courses
 
+Free of teaching this semester
+
+## Past Courses
+
 **S﻿pring 2024** Teacher Functional Analysis II MATH-404
 
 **Spring 2023** Teaching assistant Analysis IV MATH-205
-
-## Past Courses
 
 **Fall 2021**  "Theory of partial differential equations", MATH96018/97027/97104, Imperial College London.
 
 **Spring 2019** PhD short course on "Shear flows problems", Gran Sasso Science Institute
 
 ## Reading Groups
+
+**F﻿all 2023** Blow-up for the 3D Euler equations
 
 **Fall 2022/Spring 2023** Lagrangian chaos and scalar advection in stochastic fluid mechanics
 
