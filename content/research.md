@@ -1,11 +1,28 @@
 ---
 papers:
+  - title: The long way of a viscous vortex dipole
+    author: Dolce, M. & Gallay, T.
+    links:
+      - name: arXiv:2407.13562
+        url: https://arxiv.org/abs/2407.13562
+    year: 2024
+  - title: Dissipation enhancing properties for a class of Hamiltonian flows with
+      closed streamlines
+    author: Dolce, M., Johansson, C.J.P., Sorella, M.
+    links:
+      - name: arXiv:2407.06884
+        url: https://arxiv.org/abs/2407.06884
+    year: 2024
   - title: On the convergence rates of discrete solutions to the Wave Kinetic Equation
     author: Dolce, M. & Grande, R.
     year: 2024
     links:
       - name: arxiv:2404.14400
         url: https://arxiv.org/abs/2404.14400
+    journal:
+      name: Mathematics in Engineering
+      url: https://doi.org/10.3934/mine.2024022
+      volume: 6, 4
   - title: Symmetrization and asymptotic stability in non-homogeneous fluids around
       stratified shear flows
     author: Bianchini, R., Coti Zelati, M. & Dolce, M.
@@ -45,8 +62,10 @@ papers:
   - title: Taylor dispersion and phase mixing in the non-cutoff Boltzmann equation
       on the whole space
     journal:
-      name: ""
-    year: 2022
+      name: Proceedings of the London Mathematical Society
+      url: https://doi.org/10.1112/plms.12616
+      volume: 129, 1
+    year: 2024
     author: Bedrossian, J., Coti Zelati, M. & Dolce, M.
     links:
       - name: arXiv:2211.05079
