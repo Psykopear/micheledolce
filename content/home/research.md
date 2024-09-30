@@ -1,5 +1,7 @@
 ## N﻿ews
 
+I﻿ have been awarded an SNSF Ambizione for my project "*Long-time behavior of PDEs in Fluid Dynamics and Kinetic Theories*".
+
 I have been awarded the "*INdAM-UMI-SIMAI award 2023*" rewarding the authors of the best doctoral theses discussed in Italian universities on Mathematics topics in the period 2020-2023. See the announcement [here](https://www.altamatematica.it/blog/2023/11/16/premi-indam-simai-umi-2023/)
 
 ## Research
