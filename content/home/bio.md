@@ -1,8 +1,8 @@
 ## Bio
 
-F﻿rom January 2025 I will be an SNSF Ambizione Fellow.
+F﻿rom January 2025 I will be an SNSF Ambizione Fellow at the École Polytechnique Fédérale de Lausanne (EPFL).
 
-I﻿ am currently a Postdoc in mathematics at the École Polytechnique Fédérale de Lausanne working in the group of Prof. Maria Colombo (AMCV lab). Until August 2022, I was a Research Associate in Mathematics at Imperial College London working in the group of Prof. Michele Coti Zelati.
+I﻿ am currently a Postdoc in mathematics at the EPFL working in the group of Prof. Maria Colombo (AMCV lab). Until August 2022, I was a Research Associate in Mathematics at Imperial College London working in the group of Prof. Michele Coti Zelati.
 
 I obtained a PhD degree from the Gran Sasso Science Institute, in November 2020, under the supervision of Prof. Michele Coti Zelati.
 
