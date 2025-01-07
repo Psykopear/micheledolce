@@ -27,6 +27,8 @@ papers:
       - name: arXiv:2407.06884
         url: https://arxiv.org/abs/2407.06884
     year: 2024
+    journal:
+      name: to appear in Communications in Partial Differential Equations
   - title: On the convergence rates of discrete solutions to the Wave Kinetic Equation
     author: Dolce, M. & Grande, R.
     year: 2024
@@ -167,7 +169,7 @@ papers:
 ---
 ## Research
 
-My research is focused on the mathematical analysis of Partial Differential Equations, particularly those connected with fluid dynamics and kinetic theory. I am primarily interested in understanding the long-time behavior of models arising in these fields. In fluids, this falls within the realm of hydrodynamic stability theory, a foundational topic and an extremely active area of research today. I am also interested in the evolution of highly concentrated vortices in viscous fluids with the goal of understanding the dynamics on large timescales where spectacular phenomena such as vortex merging are observed. In kinetic theory, I focus on the time-decay properties of models like the Boltzmann or the Wave Kinetic Equation. 
+My research is focused on the mathematical analysis of Partial Differential Equations, particularly those connected with fluid dynamics and kinetic theory. I am primarily interested in understanding the long-time behavior of models arising in these fields. In fluids, this falls within the realm of hydrodynamic stability theory, a foundational topic and an extremely active area of research today.I am recently focusing on the evolution of highly concentrated vortices in viscous fluids. The goal is to understand the dynamics on large time-scales where spectacular phenomena such as vortex merging are observed to start. In kinetic theory, I focus on the time-decay properties of models like the Boltzmann or the Wave Kinetic Equation.
 
 You can find my PhD thesis [here](https://github.com/Psykopear/micheledolce/raw/main/public/img/phd_thesis_dolce_20.pdf), whose title is "*Linear stability analysis of stationary Euler flows for passive scalars and inhomogeneous fluids*". 
 
