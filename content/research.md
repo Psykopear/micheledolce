@@ -26,9 +26,11 @@ papers:
     links:
       - name: arXiv:2407.06884
         url: https://arxiv.org/abs/2407.06884
-    year: 2024
+    year: 2025
     journal:
-      name: to appear in Communications in Partial Differential Equations
+      name: Communications in Partial Differential Equations
+      url: https://doi.org/10.1080/03605302.2024.2447497
+      pages: 1-52
   - title: On the convergence rates of discrete solutions to the Wave Kinetic Equation
     author: Dolce, M. & Grande, R.
     year: 2024
