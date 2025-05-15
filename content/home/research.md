@@ -1,9 +1,3 @@
-## N﻿ews
-
-* T﻿ogether with [T. Rosati](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/rosati/), we are organising the workshop:\
-  *["Long time dynamics in random and deterministic systems"](https://www.epfl.ch/labs/amcv/amcv/events/long-time-dynamics-in-random-and-deterministic-systems/)*. \
-  The event will take place from **September 15 to 19, 2025**, at the Bernoulli Center, EPFL
-
 ## Research
 
 My main research interests lie in the analysis of partial differential equations. In particular, I am focusing on problems related to fluid dynamics and kinetic theory.\
