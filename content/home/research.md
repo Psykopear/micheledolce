@@ -1,8 +1,8 @@
 ## N﻿ews
 
-I﻿ have been awarded an SNSF Ambizione for my project "*Long-time behavior of PDEs in Fluid Dynamics and Kinetic Theories*".
-
-I have been awarded the "*INdAM-UMI-SIMAI award 2023*" rewarding the authors of the best doctoral theses discussed in Italian universities on Mathematics topics in the period 2020-2023. See the announcement [here](https://www.altamatematica.it/blog/2023/11/16/premi-indam-simai-umi-2023/)
+* T﻿ogether with T Rosati, we are organising the workshop\
+  *"[](https://www.epfl.ch/labs/amcv/amcv/events/long-time-dynamics-in-random-and-deterministic-systems/)Long time dynamics in random and deterministic systems"*\
+  The event will take place from **September 15 to 19, 2025**, at the Bernoulli Center, EPFL
 
 ## Research
 
