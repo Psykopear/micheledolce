@@ -1,7 +1,7 @@
 ## N﻿ews
 
-* T﻿ogether with T Rosati, we are organising the workshop\
-  *"[](https://www.epfl.ch/labs/amcv/amcv/events/long-time-dynamics-in-random-and-deterministic-systems/)Long time dynamics in random and deterministic systems"*\
+* T﻿ogether with T. Rosati, we are organising the workshop\
+  *"*[](https://www.epfl.ch/labs/amcv/amcv/events/long-time-dynamics-in-random-and-deterministic-systems/)*Long time dynamics in random and deterministic systems"*\
   The event will take place from **September 15 to 19, 2025**, at the Bernoulli Center, EPFL
 
 ## Research
