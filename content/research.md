@@ -1,5 +1,12 @@
 ---
 papers:
+  - title: Long-wave instability of periodic shear flows for the 2D Navier-Stokes
+      equations
+    author: Colombo, M., Dolce, M., Montalto, R. & Ventura, P.
+    year: 2025
+    links:
+      - name: arXiv:2509.18070
+        url: https://arxiv.org/abs/2509.18070
   - title: "Self-similar instability and forced nonuniqueness: an application to the
       2D Euler equations"
     author: Dolce, M. & Mescolini, G.
@@ -18,6 +25,8 @@ papers:
     links:
       - name: arXiv:2410.22804
         url: https://arxiv.org/abs/2410.22804
+    journal:
+      name: To appear in SIAM Journal on Mathematical Analysis
   - title: The long way of a viscous vortex dipole
     author: Dolce, M. & Gallay, T.
     links:
@@ -34,7 +43,8 @@ papers:
     journal:
       name: Communications in Partial Differential Equations
       url: https://doi.org/10.1080/03605302.2024.2447497
-      pages: 1-52
+      pages: 301-352
+      volume: 50, 3
   - title: On the convergence rates of discrete solutions to the Wave Kinetic Equation
     author: Dolce, M. & Grande, R.
     year: 2024
