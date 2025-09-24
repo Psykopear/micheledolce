@@ -1,7 +1,7 @@
 ---
 photo: img/foto.jpg
 title: Michele Dolce
-description: Junior PI in mathematics at EPFL
+description: Ambizione fellow in mathematics at EPFL
 email: michele.dolce@epfl.ch
 links:
   - name: Curriculum Vitae
