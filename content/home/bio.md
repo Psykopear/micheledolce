@@ -11,4 +11,4 @@ You can find here my [Curriculum Vitae](https://github.com/Psykopear/micheledolc
 ### Support Acknowledgement
 
 I am supported by the Swiss National Science Foundation (SNF Ambizione grant PZ00P2_223294) through the project: *Long-time behavior of PDEs in Fluid Dynamics and Kinetic Theories*.
-I am partially funded by the GNAMPA group of INdAM.
+I am a member of the GNAMPA group of Indam.
