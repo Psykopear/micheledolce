@@ -171,8 +171,8 @@ papers:
 ---
 ## Research
 
-My research is focused on the mathematical analysis of Partial Differential Equations, particularly those connected with fluid dynamics and kinetic theory. I am primarily interested in understanding the long-time behaviour of models arising in these fields. In fluids, this falls within the realm of hydrodynamic stability theory, a foundational topic and an extremely active area of research today.I am recently focusing on the evolution of highly concentrated vortices in viscous fluids. The goal is to understand the dynamics on large time-scales where spectacular phenomena such as vortex merging are observed to start. In kinetic theory, I focus on the time-decay properties of models like the Boltzmann or the Wave Kinetic Equation
-u﻿
+My research is focused on the mathematical analysis of Partial Differential Equations, particularly those connected with fluid dynamics and kinetic theory. I am primarily interested in understanding the long-time behaviour of models arising in these fields. In fluids, this falls within the realm of hydrodynamic stability theory, a foundational topic and an extremely active area of research today.I am recently focusing on the evolution of highly concentrated vortices in viscous fluids. The goal is to understand the dynamics on large time-scales where spectacular phenomena such as vortex merging are observed to start. In kinetic theory, I focus on the time-decay properties of models like the Boltzmann or the Wave Kinetic Equation.
+
 You can find my PhD thesis [here](https://github.com/Psykopear/micheledolce/raw/main/public/img/phd_thesis_dolce_20.pdf), whose title is "*Linear stability analysis of stationary Euler flows for passive scalars and inhomogeneous fluids*". 
 
 Here is a list of my papers:
