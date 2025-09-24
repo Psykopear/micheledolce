@@ -6,7 +6,7 @@ Until December 2024, I﻿ was a Postdoc in mathematics at the EPFL working in th
 
 I obtained a PhD degree from the Gran Sasso Science Institute, in November 2020, under the supervision of Prof. Michele Coti Zelati.
 
-You can find here my [Curriculum Vitae](https://github.com/Psykopear/micheledolce/raw/main/public/img/CV_MD.pdf).   
+You can find here my [Curriculum Vitae](https://github.com/Psykopear/micheledolce/raw/main/public/img/cv_md.pdf).   
 
 ### Support Acknowledgement
 
