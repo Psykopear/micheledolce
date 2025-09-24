@@ -1,5 +1,12 @@
 ---
 papers:
+  - title: Long-wave instability of periodic shear flows for the 2D Navier-Stokes
+      equations
+    author: Colombo, M., Dolce, M., Montalto, R. & Ventura, P.
+    year: 2025
+    links:
+      - name: arXiv:2509.18070
+        url: https://arxiv.org/abs/2509.18070
   - title: "Self-similar instability and forced nonuniqueness: an application to the
       2D Euler equations"
     author: Dolce, M. & Mescolini, G.
