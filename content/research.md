@@ -3,10 +3,14 @@ papers:
   - title: "Self-similar instability and forced nonuniqueness: an application to the
       2D Euler equations"
     author: Dolce, M. & Mescolini, G.
-    year: 2024
+    year: 2025
     links:
       - name: arXiv:2411.18452
         url: https://arxiv.org/abs/2411.18452
+    journal:
+      name: Journal of the London Mathematical Society
+      url: https://doi.org/10.1112/jlms.70274
+      volume: "112: e70274"
   - title: Large norm inflation of the current in the viscous, non-resistive
       magnetohydrodynamics equations
     author: Dolce, M., Knobel, N. & Zillinger, C.
