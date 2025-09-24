@@ -18,6 +18,8 @@ papers:
     links:
       - name: arXiv:2410.22804
         url: https://arxiv.org/abs/2410.22804
+    journal:
+      name: To appear in SIAM Journal on Mathematical Analysis
   - title: The long way of a viscous vortex dipole
     author: Dolce, M. & Gallay, T.
     links:
@@ -34,7 +36,8 @@ papers:
     journal:
       name: Communications in Partial Differential Equations
       url: https://doi.org/10.1080/03605302.2024.2447497
-      pages: 1-52
+      pages: 301-352
+      volume: 50, 3
   - title: On the convergence rates of discrete solutions to the Wave Kinetic Equation
     author: Dolce, M. & Grande, R.
     year: 2024
