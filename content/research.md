@@ -1,5 +1,11 @@
 ---
 papers:
+  - title: Instability of two-dimensional Taylor-Green Vortices
+    author: Colombo, M., Cao-Labora, G., Dolce, M. & Ventura, P.
+    year: 2026
+    links:
+      - name: arXiv:2601.23040
+        url: https://arxiv.org/abs/2601.23040
   - title: Long-wave instability of periodic shear flows for the 2D Navier-Stokes
       equations
     author: Colombo, M., Dolce, M., Montalto, R. & Ventura, P.
