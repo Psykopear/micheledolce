@@ -1,7 +1,7 @@
 ---
 papers:
   - title: Instability of two-dimensional Taylor-Green Vortices
-    author: Cao-Labora, G., Colombo, M., Dolce, M. & Ventura, P.
+    author: Colombo, M., Cao-Labora, G., Dolce, M. & Ventura, P.
     year: 2026
     links:
       - name: arXiv:2601.23040
