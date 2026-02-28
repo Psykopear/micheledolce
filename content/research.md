@@ -1,5 +1,11 @@
 ---
 papers:
+  - title: Viscous vortex crystals
+    author: Dolce, M. & Donati, M.
+    year: 2026
+    links:
+      - name: arXiv:2602.23134
+        url: https://arxiv.org/abs/2602.23134
   - title: Instability of two-dimensional Taylor-Green Vortices
     author: Cao-Labora, G., Colombo, M., Dolce, M. & Ventura, P.
     year: 2026
