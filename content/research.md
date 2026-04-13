@@ -44,7 +44,12 @@ papers:
     links:
       - name: arXiv:2407.13562
         url: https://arxiv.org/abs/2407.13562
-    year: 2024
+    year: 2026
+    journal:
+      name: Archive for Rational Mechanics and Analysis
+      url: https://doi.org/10.1007/s00205-026-02169-5
+      volume: 250, 2
+      pages: "18"
   - title: Dissipation enhancing properties for a class of Hamiltonian flows with
       closed streamlines
     author: Dolce, M., Johansson, C.J.P., Sorella, M.
