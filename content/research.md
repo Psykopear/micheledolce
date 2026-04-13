@@ -33,12 +33,15 @@ papers:
   - title: Large norm inflation of the current in the viscous, non-resistive
       magnetohydrodynamics equations
     author: Dolce, M., Knobel, N. & Zillinger, C.
-    year: 2024
+    year: 2026
     links:
       - name: arXiv:2410.22804
         url: https://arxiv.org/abs/2410.22804
     journal:
-      name: To appear in SIAM Journal on Mathematical Analysis
+      name: SIAM Journal on Mathematical Analysis
+      url: https://doi.org/10.1137/24M1706918
+      volume: "58"
+      pages: 1699-1743
   - title: The long way of a viscous vortex dipole
     author: Dolce, M. & Gallay, T.
     links:
