@@ -1,8 +1,14 @@
 ---
 papers:
+  - title: Initial layer instability of the kinetic Lamb-Oseen Vortex
+    author: Dolce, M. & Gallagher, I.
+    year: 2026
+    links:
+      - name: arXiv:2607.16729
+        url: https://arxiv.org/abs/2607.16729
   - title: Viscous vortex crystals
     author: Dolce, M. & Donati, M.
-    year: 2026
+    year: 2030
     links:
       - name: arXiv:2602.23134
         url: https://arxiv.org/abs/2602.23134
@@ -43,7 +49,7 @@ papers:
       volume: "58"
       pages: 1699-1743
   - title: The long way of a viscous vortex dipole
-    author: Dolce, M. & Gallay, T.
+    author: Dolce, M. & Gallay, Th.
     links:
       - name: arXiv:2407.13562
         url: https://arxiv.org/abs/2407.13562
