@@ -8,7 +8,7 @@ papers:
         url: https://arxiv.org/abs/2607.16729
   - title: Viscous vortex crystals
     author: Dolce, M. & Donati, M.
-    year: 2030
+    year: 2026
     links:
       - name: arXiv:2602.23134
         url: https://arxiv.org/abs/2602.23134
